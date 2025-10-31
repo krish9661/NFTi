@@ -1,0 +1,9 @@
+a folder named artifact is not commited because it contents --
+
+@openzeppelin
+build-info
+contracts
+
+folders which contains erc 721 and other info which is not needed to show you.
+
+Similarly, there are other folders which also contains @openzeppelin folder which contains same data will not be commited 
