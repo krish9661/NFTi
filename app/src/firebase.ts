@@ -4,7 +4,7 @@ import 'firebase/compat/database';
 
 const firebaseConfig = {
   databaseURL: "https://nft-ticketing-database-default-rtdb.firebaseio.com",
-  apiKey: "AIzaSyCDrvWE8iHD-8zZv-Gc1C4qeWjxTW7mLKM",
+  apiKey: "Api_Key",
   authDomain: "nft-ticketing-database.firebaseapp.com",
   projectId: "nft-ticketing-database",
   storageBucket: "nft-ticketing-database.firebasestorage.app",
